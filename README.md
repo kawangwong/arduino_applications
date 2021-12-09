@@ -5,7 +5,7 @@ The purpose of creating this repository is to host a number of self-written scri
 In short, we can call a microcontroller a really smart relay switch with high versatility and the low cost reduces the barrier to entry for any person interested in tinkering or developing a product for use to improve quality of life or even for educational purposes.
 
 <h2>Arduino Idea</h2>
-- An arudiono program that can used as a HID for connecting switches to an IO for use as input.
+- An arduino program that can used as a HID for connecting switches to an IO for use as input.
 - Use of Arduino to send a message something happens such as a user input or a detection of something occurs.
 - Control of lights through detection or some for of trigger based on user events.
 
